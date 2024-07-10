@@ -59,6 +59,15 @@ select {
 
 }
 
+a { 
+    color: black;
+}
+
+a:hover {
+    cursor: pointer;
+}
+
+
 footer {
     text-align: center;
     font-size: 14px;
